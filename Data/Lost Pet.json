@@ -1,0 +1,14 @@
+{
+  "Name": "Lost Pet",
+  "LevelRequirement": 100,
+  "Description": "",
+  "Notes": "",
+  "QuestFlags": [
+    ""
+  ],
+  "Route": "",
+  "Priority": 2147483632.0,
+  "XpReward": 30000000,
+  "LuminanceReward": 0,
+  "KeyReward": ""
+}

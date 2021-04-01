@@ -1,0 +1,14 @@
+{
+  "Name": "Burun Burrow",
+  "LevelRequirement": 60,
+  "Description": "",
+  "Notes": "",
+  "QuestFlags": [
+    ""
+  ],
+  "Route": "VirindiRescue",
+  "Priority": 2147483627.0,
+  "XpReward": 45000000,
+  "LuminanceReward": 0,
+  "KeyReward": ""
+}

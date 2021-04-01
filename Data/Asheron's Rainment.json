@@ -1,0 +1,14 @@
+{
+  "Name": "Asheron's Rainment",
+  "LevelRequirement": 60,
+  "Description": "Defeat Kayyaban Hive Queen and retrieve her pincer.",
+  "Notes": "",
+  "QuestFlags": [
+    "broodmatronpincerpickedup"
+  ],
+  "Route": "",
+  "Priority": 2147483633.0,
+  "XpReward": 15000000,
+  "LuminanceReward": 0,
+  "KeyReward": "n/a"
+}

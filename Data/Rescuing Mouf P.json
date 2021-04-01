@@ -1,0 +1,14 @@
+{
+  "Name": "Rescuing Mouf P",
+  "LevelRequirement": 150,
+  "Description": "",
+  "Notes": "",
+  "QuestFlags": [
+    ""
+  ],
+  "Route": "RescuingMoufP",
+  "Priority": 2147483645.0,
+  "XpReward": 346775165,
+  "LuminanceReward": 17500,
+  "KeyReward": ""
+}

@@ -1,0 +1,14 @@
+{
+  "Name": "Sword of Bellenesse",
+  "LevelRequirement": 150,
+  "Description": "",
+  "Notes": "",
+  "QuestFlags": [
+    "swordofbellenese"
+  ],
+  "Route": "VirindiRescue",
+  "Priority": 2147483629.0,
+  "XpReward": 81500000,
+  "LuminanceReward": 0,
+  "KeyReward": ""
+}

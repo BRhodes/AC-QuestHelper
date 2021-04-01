@@ -1,0 +1,15 @@
+{
+  "Name": "Aug Gem: Sir Bellas",
+  "LevelRequirement": 125,
+  "Description": "",
+  "Notes": "",
+  "QuestFlags": [
+    "insatiableeaterjaw",
+    "augmentationblankgemacquired"
+  ],
+  "Route": "VirindiRescue",
+  "Priority": 2147483646.0,
+  "XpReward": 0,
+  "LuminanceReward": 0,
+  "KeyReward": ""
+}

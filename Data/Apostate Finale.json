@@ -1,0 +1,14 @@
+{
+  "Name": "Apostate Finale",
+  "LevelRequirement": 150,
+  "Description": "",
+  "Notes": "",
+  "QuestFlags": [
+    "apostatefinalemaskshardpickup"
+  ],
+  "Route": "AF",
+  "Priority": 2147483642.0,
+  "XpReward": 435000000,
+  "LuminanceReward": 35000,
+  "KeyReward": ""
+}

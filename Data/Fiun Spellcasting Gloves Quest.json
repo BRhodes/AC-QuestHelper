@@ -1,0 +1,15 @@
+{
+  "Name": "template",
+  "LevelRequirement": 90,
+  "Description": "",
+  "Notes": "Din's Slave III: Secondary",
+  "QuestFlags": [
+    "spellcastinggloves",
+	"abayarresearchnotes"
+  ],
+  "Route": "VirindiRescue",
+  "Priority": 2147483647.0,
+  "XpReward": 48300000,
+  "LuminanceReward": 0,
+  "KeyReward": ""
+}

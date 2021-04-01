@@ -1,0 +1,14 @@
+{
+  "Name": "Asheron's Supreme Rainment",
+  "LevelRequirement": 120,
+  "Description": "Defeat Kayyaban Hive Queen and retrieve her carapace.",
+  "Notes": "",
+  "QuestFlags": [
+    "broodmatroncarapacepickedup"
+  ],
+  "Route": "VirindiRescue",
+  "Priority": 2147483638.0,
+  "XpReward": 116000000,
+  "LuminanceReward": 0,
+  "KeyReward": null
+}

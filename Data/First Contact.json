@@ -1,0 +1,14 @@
+{
+  "Name": "First Contact",
+  "LevelRequirement": 60,
+  "Description": "",
+  "Notes": "",
+  "QuestFlags": [
+    ""
+  ],
+  "Route": "First_Contact",
+  "Priority": 2147483640.0,
+  "XpReward": 45000000,
+  "LuminanceReward": 0,
+  "KeyReward": ""
+}

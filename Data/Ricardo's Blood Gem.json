@@ -1,0 +1,14 @@
+{
+  "Name": "Ricardo's Blood Gem",
+  "LevelRequirement": 80,
+  "Description": "",
+  "Notes": "",
+  "QuestFlags": [
+    ""
+  ],
+  "Route": "Coral_Caves",
+  "Priority": 2147483636.0,
+  "XpReward": 21000000,
+  "LuminanceReward": 0,
+  "KeyReward": ""
+}

@@ -1,0 +1,14 @@
+{
+  "Name": "Asheron's Greater Rainment",
+  "LevelRequirement": 90,
+  "Description": "Defeat Uziz Hive Queen and retrieve her crest.",
+  "Notes": "",
+  "QuestFlags": [
+    "broodmatroncrestpickedup"
+  ],
+  "Route": "",
+  "Priority": 2147483635.0,
+  "XpReward": 46000000,
+  "LuminanceReward": 0,
+  "KeyReward": "n/a"
+}

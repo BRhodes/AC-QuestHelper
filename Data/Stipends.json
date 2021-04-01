@@ -1,0 +1,14 @@
+{
+  "Name": "Stipends",
+  "LevelRequirement": 0,
+  "Description": "",
+  "Notes": "",
+  "QuestFlags": [
+    "stipendtimer_0812"
+  ],
+  "Route": "qh_Stipends",
+  "Priority": 2147483647.0,
+  "XpReward": 0,
+  "LuminanceReward": 0,
+  "KeyReward": ""
+}

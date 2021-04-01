@@ -1,0 +1,18 @@
+{
+  "Name": "Olthoi Chasm",
+  "LevelRequirement": 100,
+  "Description": "5 pages from Olthoi Chasm",
+  "Notes": "",
+  "QuestFlags": [
+    "deepplaces1",
+    "deepplaces2",
+    "deepplaces3",
+    "deepplaces4",
+    "deepplaces5"
+  ],
+  "Route": "Olthoi_Chasm",
+  "Priority": 2147483637.0,
+  "XpReward": 75000000,
+  "LuminanceReward": 0,
+  "KeyReward": null
+}

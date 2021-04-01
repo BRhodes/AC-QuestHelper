@@ -1,0 +1,15 @@
+{
+  "Name": "Virindi Rescue",
+  "LevelRequirement": 150,
+  "Description": "Defeat Kayyaban Hive Queen and retrieve her pincer.",
+  "Notes": "",
+  "QuestFlags": [
+    "virindirescuecompleted0612",
+    "dravannessencepickup"
+  ],
+  "Route": "VirindiRescue",
+  "Priority": 2147483643.0,
+  "XpReward": 315000000,
+  "LuminanceReward": 15000,
+  "KeyReward": "1 MFK"
+}

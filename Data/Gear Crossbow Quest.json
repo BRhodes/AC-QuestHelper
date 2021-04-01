@@ -1,0 +1,14 @@
+{
+  "Name": "Gear Crossbow Quest",
+  "LevelRequirement": 150,
+  "Description": "",
+  "Notes": "",
+  "QuestFlags": [
+    "gearxbowwait"
+  ],
+  "Route": "GearCrossbow",
+  "Priority": 2147483641.0,
+  "XpReward": 150000000,
+  "LuminanceReward": 15000,
+  "KeyReward": ""
+}

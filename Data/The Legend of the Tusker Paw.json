@@ -1,0 +1,14 @@
+{
+  "Name": "The Legend of the Tusker Paw",
+  "LevelRequirement": 80,
+  "Description": "",
+  "Notes": "",
+  "QuestFlags": [
+    ""
+  ],
+  "Route": "Bobo",
+  "Priority": 2147483628.0,
+  "XpReward": 0,
+  "LuminanceReward": 0,
+  "KeyReward": ""
+}

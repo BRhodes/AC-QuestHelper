@@ -1,0 +1,14 @@
+{
+  "Name": "Defense of Zaikhal (Gold)",
+  "LevelRequirement": -1,
+  "Description": "",
+  "Notes": "",
+  "QuestFlags": [
+    ""
+  ],
+  "Route": "VirindiRescue",
+  "Priority": 2147483626.0,
+  "XpReward": 0,
+  "LuminanceReward": 0,
+  "KeyReward": ""
+}

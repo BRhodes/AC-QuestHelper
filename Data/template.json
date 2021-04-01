@@ -1,0 +1,14 @@
+{
+  "Name": "template",
+  "LevelRequirement": 125,
+  "Description": "",
+  "Notes": "",
+  "QuestFlags": [
+    "upperinsatiablejaw"
+  ],
+  "Route": "VirindiRescue",
+  "Priority": 2147483630.0,
+  "XpReward": 40000000,
+  "LuminanceReward": 0,
+  "KeyReward": ""
+}

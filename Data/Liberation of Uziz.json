@@ -1,0 +1,14 @@
+{
+  "Name": "Liberation of Uziz",
+  "LevelRequirement": 180,
+  "Description": "Save Virindi Boy",
+  "Notes": "",
+  "QuestFlags": [
+    ""
+  ],
+  "Route": "qh_LiberationOfUziz",
+  "Priority": 2147483644.0,
+  "XpReward": 275000000,
+  "LuminanceReward": 20000,
+  "KeyReward": "2 Leg"
+}

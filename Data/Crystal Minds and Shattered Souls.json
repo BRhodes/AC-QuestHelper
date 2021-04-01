@@ -1,0 +1,15 @@
+{
+  "Name": "Crystal Minds and Shattered Souls",
+  "LevelRequirement": 100,
+  "Description": "",
+  "Notes": "",
+  "QuestFlags": [
+    "gotdarktreerward",
+    "gotsoulshatterreward"
+  ],
+  "Route": "VirindiRescue",
+  "Priority": 2147483634.0,
+  "XpReward": 200000000,
+  "LuminanceReward": 0,
+  "KeyReward": ""
+}

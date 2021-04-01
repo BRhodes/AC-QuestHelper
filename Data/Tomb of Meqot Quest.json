@@ -1,0 +1,14 @@
+{
+  "Name": "Tomb of Meqot Quest",
+  "LevelRequirement": 150,
+  "Description": "",
+  "Notes": "Din's Slave V: Primary for key, Din's Slave V: Secondary for tomb",
+  "QuestFlags": [
+    ""
+  ],
+  "Route": "VirindiRescue",
+  "Priority": 2147483630.0,
+  "XpReward": 0,
+  "LuminanceReward": 0,
+  "KeyReward": ""
+}

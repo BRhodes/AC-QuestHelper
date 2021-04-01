@@ -1,0 +1,14 @@
+{
+  "Name": "Asheron's Lesser Rainment",
+  "LevelRequirement": 40,
+  "Description": "Defeat Khayyaban Hive Queen and retrieve her claw.",
+  "Notes": "",
+  "QuestFlags": [
+    "broodmatronclawpickedup"
+  ],
+  "Route": "",
+  "Priority": 2147483631.0,
+  "XpReward": 5000000,
+  "LuminanceReward": 0,
+  "KeyReward": "n/a"
+}
