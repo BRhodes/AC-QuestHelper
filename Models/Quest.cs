@@ -36,6 +36,11 @@ namespace QuestHelper.Models
         public int LuminanceReward { get { return luminanceReward; } set { luminanceReward = value; IsDirty = true; } }
         public string KeyReward { get { return keyReward; } set { keyReward = value; IsDirty = true; } }
 
+
+        public override string ToString()
+        {
+            return Name;
+        }
         public bool IsReady()
         {
             return QuestFlags.TrueForAll(x => true);
@@ -59,6 +64,7 @@ namespace QuestHelper.Models
 
         private string FormatNumber(RewardAmount displayUnit, long x)
         {
+            if (x == 0) return "";
             var d = x / (long)displayUnit;
 
             var endUnit = "";

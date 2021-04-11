@@ -2,7 +2,6 @@
 using QuestHelper.Models;
 using System;
 using System.Collections.Generic;
-using System.Text;
 using VirindiViewService;
 using VirindiViewService.Controls;
 

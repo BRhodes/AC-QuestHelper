@@ -4,9 +4,9 @@
   "Description": "Save Virindi Boy",
   "Notes": "",
   "QuestFlags": [
-    ""
+    "abductedcompleted_0313"
   ],
-  "Route": "qh_LiberationOfUziz",
+  "Route": "LiberationOfUziz",
   "Priority": 2147483644.0,
   "XpReward": 275000000,
   "LuminanceReward": 20000,

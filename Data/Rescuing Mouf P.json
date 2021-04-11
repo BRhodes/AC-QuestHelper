@@ -4,10 +4,10 @@
   "Description": "",
   "Notes": "",
   "QuestFlags": [
-    ""
+    "moufreward"
   ],
   "Route": "RescuingMoufP",
-  "Priority": 2147483645.0,
+  "Priority": 2147483643.0,
   "XpReward": 346775165,
   "LuminanceReward": 17500,
   "KeyReward": ""

@@ -1,14 +1,14 @@
 {
-  "Name": "Defense of Zaikhal (Gold)",
-  "LevelRequirement": 80,
+  "Name": "Defense of Zaikhal (Silver)",
+  "LevelRequirement": 65,
   "Description": "",
   "Notes": "",
   "QuestFlags": [
     ""
   ],
   "Route": "",
-  "Priority": 2147483626.0,
-  "XpReward": 30000000,
+  "Priority": 0.0,
+  "XpReward": 18000000,
   "LuminanceReward": 0,
   "KeyReward": ""
 }

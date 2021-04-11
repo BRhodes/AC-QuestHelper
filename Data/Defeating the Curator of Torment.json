@@ -1,0 +1,14 @@
+{
+  "Name": "Defeating the Curator of Torment",
+  "LevelRequirement": 180,
+  "Description": "",
+  "Notes": "",
+  "QuestFlags": [
+    "tormentshardpickup"
+  ],
+  "Route": "RTW",
+  "Priority": 0.0,
+  "XpReward": 718000000,
+  "LuminanceReward": 90000,
+  "KeyReward": "5 Leg"
+}

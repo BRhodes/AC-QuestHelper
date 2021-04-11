@@ -1,0 +1,14 @@
+{
+  "Name": "Bloodstone Investigation",
+  "LevelRequirement": 200,
+  "Description": "",
+  "Notes": "",
+  "QuestFlags": [
+    "shatteredmasterbloodstoneshardpickedup"
+  ],
+  "Route": "BloodstoneInvestigation",
+  "Priority": 0.0,
+  "XpReward": 287308150,
+  "LuminanceReward": 40000,
+  "KeyReward": "1 Leg"
+}

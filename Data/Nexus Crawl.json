@@ -1,0 +1,14 @@
+{
+  "Name": "Nexus Crawl",
+  "LevelRequirement": 150,
+  "Description": "",
+  "Notes": "",
+  "QuestFlags": [
+    "nexuscrawlcompleted0509"
+  ],
+  "Route": "",
+  "Priority": 0.0,
+  "XpReward": 445853784,
+  "LuminanceReward": 18000,
+  "KeyReward": ""
+}

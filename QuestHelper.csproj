@@ -10,8 +10,9 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>QuestHelper</RootNamespace>
     <AssemblyName>QuestHelper</AssemblyName>
-    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -34,6 +35,9 @@
     <Reference Include="Decal.Adapter">
       <HintPath>..\..\..\..\..\..\Program Files (x86)\Decal 3.0\Decal.Adapter.dll</HintPath>
     </Reference>
+    <Reference Include="LiteDB, Version=4.1.4.0, Culture=neutral, PublicKeyToken=4ee40123013c9f27, processorArchitecture=MSIL">
+      <HintPath>packages\LiteDB.4.1.4\lib\net35\LiteDB.dll</HintPath>
+    </Reference>
     <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
       <HintPath>packages\Newtonsoft.Json.13.0.1\lib\net20\Newtonsoft.Json.dll</HintPath>
     </Reference>
@@ -47,14 +51,22 @@
   <ItemGroup>
     <Compile Include="Globals.cs" />
     <Compile Include="Logger.cs" />
+    <Compile Include="Models\PlayerData.cs" />
+    <Compile Include="Models\QuestViewData.cs" />
     <Compile Include="Models\Quest.cs" />
     <Compile Include="Models\Segment.cs" />
     <Compile Include="Models\Route.cs" />
+    <Compile Include="PlayerDataRepository.cs" />
     <Compile Include="PluginCore.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Models\QuestFlag.cs" />
     <Compile Include="QuestFlagRepository.cs" />
+    <Compile Include="QuestManager.cs" />
+    <Compile Include="ViewModels\QuestViewModel.cs" />
     <Compile Include="Util.cs" />
+    <Compile Include="View\FavoriteQuests.cs" />
+    <Compile Include="View\AllQuests.cs" />
+    <Compile Include="View\UiListBase.cs" />
     <Compile Include="VirindiViews\ViewSystemSelector.cs" />
     <Compile Include="VirindiViews\Wrapper.cs" />
     <Compile Include="VirindiViews\Wrapper_Decal.cs" />
