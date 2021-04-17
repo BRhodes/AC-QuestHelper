@@ -4,9 +4,10 @@
   "Description": "",
   "Notes": "",
   "QuestFlags": [
+    "apostatefinalecompleted_0910",
     "apostatefinalemaskshardpickup"
   ],
-  "Route": "AF",
+  "Route": "AFFull",
   "Priority": 2147483645.0,
   "XpReward": 435000000,
   "LuminanceReward": 35000,

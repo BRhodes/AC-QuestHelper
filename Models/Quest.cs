@@ -41,10 +41,6 @@ namespace QuestHelper.Models
         {
             return Name;
         }
-        public bool IsReady()
-        {
-            return QuestFlags.TrueForAll(x => true);
-        }
 
         public enum RewardAmount
         {

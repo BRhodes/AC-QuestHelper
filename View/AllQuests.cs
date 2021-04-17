@@ -29,7 +29,7 @@ namespace QuestHelper.View
             AccountFavorite
         }
 
-        public AllQuestsView(QuestManager questManager, HudList hudList, QuestFlagRepository questFlagRepository, PlayerData playerData, Action<Quest> thing) : base(hudList)
+        public AllQuestsView(QuestManager questManager, HudList hudList, QuestFlagRepository questFlagRepository, PlayerData playerData, Action<Quest> thing, HudView questView) : base(hudList)
         {
             _questManager = questManager;
             _questFlagRepository = questFlagRepository;

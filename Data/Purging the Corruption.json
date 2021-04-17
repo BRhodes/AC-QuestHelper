@@ -1,0 +1,14 @@
+{
+  "Name": "Purging the Corruption",
+  "LevelRequirement": 180,
+  "Description": "",
+  "Notes": "",
+  "QuestFlags": [
+    "jtmcompleted_0613"
+  ],
+  "Route": "PurgingTheCorruption",
+  "Priority": 0.0,
+  "XpReward": 300000000,
+  "LuminanceReward": 20000,
+  "KeyReward": "1 Leg"
+}

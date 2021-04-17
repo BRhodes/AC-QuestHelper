@@ -17,7 +17,7 @@
               <control progid="DecalControls.StaticText" name="QuestsListSolveCount" left="437" top="4" width="40" height="17" justify="Right" text="Lum"/>
               <control progid="DecalControls.StaticText" name="QuestsListSolveCount" left="484" top="4" width="40" height="17" justify="Right" text="Keys"/>
               <control progid="DecalControls.StaticText" name="QuestsListSolveCount" left="541" top="4" width="39" height="17" justify="Center" text="Priority"/>
-              <control progid="DecalControls.List" name="FavoriteList" left="0" top="20" width="660" height="170">
+              <control progid="DecalControls.List" name="FavoriteList" left="0" top="20" width="660" height="240">
                 <column progid="DecalControls.PushButton" name="Play" fixedwidth="16" text="" />
                 <column progid="DecalControls.TextColumn" name="QuestName" fixedwidth="240" text="" />
                 <column progid="DecalControls.TextColumn" name="NextAvailable" justify="Right" fixedwidth="100"/>
@@ -29,6 +29,8 @@
                 <column progid="DecalControls.PushButton" name="PriorityDown" fixedwidth="16"/>
                 <column progid="DecalControls.CheckBox" name="Favorite" fixedwidth="16"/>
               </control>
+              <control progid="DecalControls.StaticText" name="QuestFavoritesShowCompletedText" left="8" top="260" width="42" height="20" justify="Left" text="Show?"/>
+              <control progid="DecalControls.CheckBox" name="QuestFavoritesShowCompleted" left="50" top="260" width="16" height="16"/>
             </control>
           </page>
 
@@ -43,7 +45,7 @@
               <control progid="DecalControls.StaticText" name="QuestsListKeys" left="541" top="4" width="40" height="17" justify="Right" text="Keys"/>
               <control progid="DecalControls.StaticText" name="QuestsListFavorite" left="588" top="4" width="16" height="17" justify="Center" text="F?"/>
               <control progid="DecalControls.StaticText" name="QuestsListAccountFavorite" left="608" top="4" width="16" height="17" justify="Center" text="A?"/>
-              <control progid="DecalControls.List" name="QuestList" left="0" top="20" width="660" height="270">
+              <control progid="DecalControls.List" name="QuestList" left="0" top="20" width="660" height="240">
                 <column progid="DecalControls.PushButton" name="Play" fixedwidth="16" text="" />
                 <column progid="DecalControls.TextColumn" name="QuestName" fixedwidth="240" text="" />
                 <column progid="DecalControls.TextColumn" name="NextAvailable" justify="Right" fixedwidth="100"/>

@@ -1,0 +1,16 @@
+{
+  "Name": "Blackmire Reliquaries",
+  "LevelRequirement": 0,
+  "Description": "",
+  "Notes": "",
+  "QuestFlags": [
+    "chestblackmarrowgatewayshemza0205",
+    "chestblackmarrowgatewaylurza0205",
+    "chestblackmarrowgatewaydemesne0205"
+  ],
+  "Route": "VissidalBlackmireReliquaries",
+  "Priority": 0.0,
+  "XpReward": 0,
+  "LuminanceReward": 0,
+  "KeyReward": ""
+}

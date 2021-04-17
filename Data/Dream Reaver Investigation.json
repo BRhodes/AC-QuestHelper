@@ -1,0 +1,14 @@
+{
+  "Name": "Dream Reaver Investigation",
+  "LevelRequirement": 180,
+  "Description": "",
+  "Notes": "",
+  "QuestFlags": [
+    "btmpickup_0513"
+  ],
+  "Route": "DreamReaverInvestigation",
+  "Priority": 0.0,
+  "XpReward": 330000000,
+  "LuminanceReward": 20000,
+  "KeyReward": "2 Leg"
+}

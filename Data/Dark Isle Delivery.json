@@ -1,0 +1,14 @@
+{
+  "Name": "Dark Isle Delivery",
+  "LevelRequirement": 180,
+  "Description": "",
+  "Notes": "",
+  "QuestFlags": [
+    ""
+  ],
+  "Route": "",
+  "Priority": 0.0,
+  "XpReward": 10000000,
+  "LuminanceReward": 1000,
+  "KeyReward": ""
+}

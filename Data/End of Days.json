@@ -1,0 +1,14 @@
+{
+  "Name": "End of Days",
+  "LevelRequirement": 200,
+  "Description": "",
+  "Notes": "",
+  "QuestFlags": [
+    "crimsonscarabpickup"
+  ],
+  "Route": "EndOfDays",
+  "Priority": 0.0,
+  "XpReward": 300000000,
+  "LuminanceReward": 15000,
+  "KeyReward": "2 Leg"
+}

@@ -1,0 +1,14 @@
+{
+  "Name": "Presk's Bunker Quest",
+  "LevelRequirement": 180,
+  "Description": "",
+  "Notes": "",
+  "QuestFlags": [
+    "lugianassaultcompleted_0913"
+  ],
+  "Route": "PresksBunkerQuest",
+  "Priority": 0.0,
+  "XpReward": 500000000,
+  "LuminanceReward": 20000,
+  "KeyReward": "1 Leg"
+}

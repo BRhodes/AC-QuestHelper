@@ -16,6 +16,8 @@ namespace QuestHelper.View
         private PlayerData _playerData { get; set; }
         private QuestManager _questManager { get; set; }
         public Action<Quest> _questClickCallback;
+        public HudView _hudView;
+        public HudCheckBox _showCompleted;
 
         internal enum Column
         {
@@ -31,12 +33,14 @@ namespace QuestHelper.View
             Favorite
         }
 
-        public FavoriteQuestsView(QuestManager questManager, HudList hudList, QuestFlagRepository questFlagRepository, PlayerData playerData, Action<Quest> thing) : base(hudList)
+        public FavoriteQuestsView(QuestManager questManager, HudList hudList, QuestFlagRepository questFlagRepository, PlayerData playerData, Action<Quest> thing, HudView hudView) : base(hudList)
         {
             _questManager = questManager;
             _questFlagRepository = questFlagRepository;
             _playerData = playerData;
             _questClickCallback = thing;
+            _hudView = hudView;
+            _showCompleted = (HudCheckBox)_hudView["QuestFavoritesShowCompleted"];
         }
 
         protected override List<Quest> GetItems()
@@ -85,7 +89,11 @@ namespace QuestHelper.View
 
         protected override List<Quest> Filter(List<Quest> quests)
         {
-            return quests.FindAll(x => _playerData.GetQuestPreference(x.Name).IsFavorite);
+            return quests.FindAll(
+                x =>
+            _playerData.GetQuestPreference(x.Name).IsFavorite &&
+                (_showCompleted.Checked || _questFlagRepository.IsQuestReady(x))
+            );
         }
 
         private void AddHandlers(HudList.HudListRowAccessor row, FavoriteQuestsViewData quest)

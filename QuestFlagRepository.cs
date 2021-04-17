@@ -30,6 +30,20 @@ namespace QuestHelper
             Core.ChatBoxMessage += Current_ChatBoxMessage;
         }
         
+        public bool IsQuestReady(Quest quest)
+        {
+            var questReady = true;
+            foreach (var questFlagId in quest.QuestFlags)
+            {
+                if (QuestFlags.TryGetValue(questFlagId, out var questFlag))
+                {
+                    questReady = questReady && questFlag.IsReady();
+                }
+            }
+
+            return questReady;
+        }
+
         public int WhenIsQuestReady(Quest quest)
         {
             var questReady = 0;

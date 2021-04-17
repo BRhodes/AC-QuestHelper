@@ -197,8 +197,8 @@ namespace QuestHelper
             try
             {
                 LoadState();
-                _allQuestsView = new AllQuestsView(_questManager, (HudList)questView["QuestList"], qt, _playerData, (q) => QuestName_Hit(q, 1));
-                _favoriteQuestsView = new FavoriteQuestsView(_questManager, (HudList)questView["FavoriteList"], qt, _playerData, (q) => QuestName_Hit(q, 0));
+                _allQuestsView = new AllQuestsView(_questManager, (HudList)questView["QuestList"], qt, _playerData, (q) => QuestName_Hit(q, 1), questView);
+                _favoriteQuestsView = new FavoriteQuestsView(_questManager, (HudList)questView["FavoriteList"], qt, _playerData, (q) => QuestName_Hit(q, 0), questView);
 
                 AutoSaveTimer = new Timer();
                 AutoSaveTimer.Elapsed += AutoSaveTimer_Elapsed;
