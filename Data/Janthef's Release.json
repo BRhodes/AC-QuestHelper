@@ -1,0 +1,14 @@
+{
+  "Name": "Janthef's Release",
+  "LevelRequirement": 180,
+  "Description": "",
+  "Notes": "",
+  "QuestFlags": [
+    "escapecompleted_0213"
+  ],
+  "Route": "JanthefsRelease",
+  "Priority": 0.0,
+  "XpReward": 321876544,
+  "LuminanceReward": 20000,
+  "KeyReward": "2 Leg"
+}

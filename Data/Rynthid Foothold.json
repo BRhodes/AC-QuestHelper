@@ -1,0 +1,14 @@
+{
+  "Name": "Rynthid Foothold",
+  "LevelRequirement": 0,
+  "Description": "",
+  "Notes": "",
+  "QuestFlags": [
+    ""
+  ],
+  "Route": "RynthidFoothold",
+  "Priority": 0.0,
+  "XpReward": 0,
+  "LuminanceReward": 0,
+  "KeyReward": ""
+}

@@ -1,0 +1,14 @@
+{
+  "Name": "Aug Gem: Diemos",
+  "LevelRequirement": 0,
+  "Description": "",
+  "Notes": "",
+  "QuestFlags": [
+    "pickedupmarkerboss10x"
+  ],
+  "Route": "",
+  "Priority": 0.0,
+  "XpReward": 0,
+  "LuminanceReward": 0,
+  "KeyReward": ""
+}

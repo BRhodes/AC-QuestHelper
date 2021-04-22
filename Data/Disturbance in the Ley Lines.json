@@ -1,0 +1,15 @@
+{
+  "Name": "Disturbance in the Ley Lines",
+  "LevelRequirement": 150,
+  "Description": "",
+  "Notes": "",
+  "QuestFlags": [
+    "engravedashenkeypickuptimer",
+    "ringofremembrancepickuptimer"
+  ],
+  "Route": "DisturbanceInTheLeyLines",
+  "Priority": 0.0,
+  "XpReward": 693550330,
+  "LuminanceReward": 0,
+  "KeyReward": ""
+}

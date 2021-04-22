@@ -1,0 +1,14 @@
+{
+  "Name": "Splitting Grael (High)",
+  "LevelRequirement": 0,
+  "Description": "",
+  "Notes": "",
+  "QuestFlags": [
+    "shardoftheabyssaltotempickuptimer"
+  ],
+  "Route": "SplittingGraelHigh",
+  "Priority": 0.0,
+  "XpReward": 237331598,
+  "LuminanceReward": 12000,
+  "KeyReward": ""
+}
