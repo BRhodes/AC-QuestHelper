@@ -1,0 +1,14 @@
+{
+  "Name": "Mukkir Aspect of Grael",
+  "LevelRequirement": 150,
+  "Description": "",
+  "Notes": "",
+  "QuestFlags": [
+    "shardoftheblackspearpickuptimer"
+  ],
+  "Route": "MukkirAspectOfGrael",
+  "Priority": 0.0,
+  "XpReward": 275000000,
+  "LuminanceReward": 20000,
+  "KeyReward": ""
+}
