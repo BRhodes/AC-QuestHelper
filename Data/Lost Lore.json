@@ -1,0 +1,14 @@
+{
+  "Name": "Lost Lore",
+  "LevelRequirement": 0,
+  "Description": "",
+  "Notes": "",
+  "QuestFlags": [
+    "tornstripofparchmentpickuptimer"
+  ],
+  "Route": "",
+  "Priority": 0.0,
+  "XpReward": 190000000,
+  "LuminanceReward": 18000,
+  "KeyReward": "6 Leg"
+}

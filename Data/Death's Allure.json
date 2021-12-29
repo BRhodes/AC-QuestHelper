@@ -1,0 +1,14 @@
+{
+  "Name": "Death's Allure",
+  "LevelRequirement": 175,
+  "Description": "",
+  "Notes": "",
+  "QuestFlags": [
+    "deathallurecd"
+  ],
+  "Route": "DeathsAllure",
+  "Priority": 0.0,
+  "XpReward": 150000000,
+  "LuminanceReward": 12000,
+  "KeyReward": ""
+}

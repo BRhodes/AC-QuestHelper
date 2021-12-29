@@ -1,0 +1,14 @@
+{
+  "Name": "Wardley",
+  "LevelRequirement": 0,
+  "Description": "",
+  "Notes": "",
+  "QuestFlags": [
+    "frozenwightlairtrophy1111"
+  ],
+  "Route": "Wardley",
+  "Priority": 0.0,
+  "XpReward": 100000000,
+  "LuminanceReward": 10000,
+  "KeyReward": ""
+}

@@ -1,0 +1,14 @@
+{
+  "Name": "Jester Focuses",
+  "LevelRequirement": 160,
+  "Description": "",
+  "Notes": "",
+  "QuestFlags": [
+    "pieceofknathcorepickuptimer"
+  ],
+  "Route": "",
+  "Priority": 0.0,
+  "XpReward": 710250000,
+  "LuminanceReward": 15000,
+  "KeyReward": ""
+}

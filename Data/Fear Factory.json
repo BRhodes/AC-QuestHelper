@@ -1,0 +1,14 @@
+{
+  "Name": "Fear Factory",
+  "LevelRequirement": 180,
+  "Description": "",
+  "Notes": "",
+  "QuestFlags": [
+    "fearfactorycompleted_0813"
+  ],
+  "Route": "",
+  "Priority": 0.0,
+  "XpReward": 100000000,
+  "LuminanceReward": 12000,
+  "KeyReward": ""
+}

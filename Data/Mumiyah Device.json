@@ -1,0 +1,14 @@
+{
+  "Name": "Mumiyah Device",
+  "LevelRequirement": 0,
+  "Description": "",
+  "Notes": "",
+  "QuestFlags": [
+    "findmumiyahdevicewait"
+  ],
+  "Route": "",
+  "Priority": 0.0,
+  "XpReward": 160000000,
+  "LuminanceReward": 10000,
+  "KeyReward": ""
+}

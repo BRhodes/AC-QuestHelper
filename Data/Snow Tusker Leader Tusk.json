@@ -1,0 +1,14 @@
+{
+  "Name": "Snow Tusker Leader Tusk",
+  "LevelRequirement": 0,
+  "Description": "",
+  "Notes": "",
+  "QuestFlags": [
+    "tusksnowleaderpickup"
+  ],
+  "Route": "SnowTuskerLeader",
+  "Priority": 0.0,
+  "XpReward": 31666666,
+  "LuminanceReward": 7500,
+  "KeyReward": ""
+}

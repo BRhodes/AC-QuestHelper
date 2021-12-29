@@ -52,6 +52,8 @@
     <Compile Include="Globals.cs" />
     <Compile Include="Logger.cs" />
     <Compile Include="Models\PlayerData.cs" />
+    <Compile Include="Models\Activity.cs" />
+    <Compile Include="Models\KillTask.cs" />
     <Compile Include="Models\QuestViewData.cs" />
     <Compile Include="Models\Quest.cs" />
     <Compile Include="Models\Segment.cs" />
@@ -64,8 +66,10 @@
     <Compile Include="QuestManager.cs" />
     <Compile Include="ViewModels\QuestViewModel.cs" />
     <Compile Include="Util.cs" />
+    <Compile Include="View\Activities.cs" />
     <Compile Include="View\FavoriteQuests.cs" />
     <Compile Include="View\AllQuests.cs" />
+    <Compile Include="View\IActivityView.cs" />
     <Compile Include="View\UiListBase.cs" />
     <Compile Include="VirindiViews\ViewSystemSelector.cs" />
     <Compile Include="VirindiViews\Wrapper.cs" />

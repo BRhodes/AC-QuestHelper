@@ -1,0 +1,14 @@
+{
+  "Name": "Shroud of Emotion",
+  "LevelRequirement": 0,
+  "Description": "",
+  "Notes": "",
+  "QuestFlags": [
+    "shroudbloodlustpickup"
+  ],
+  "Route": "shroudofemotion",
+  "Priority": 0.0,
+  "XpReward": 250000000,
+  "LuminanceReward": 20000,
+  "KeyReward": ""
+}

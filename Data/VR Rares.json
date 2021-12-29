@@ -1,0 +1,17 @@
+{
+  "Name": "VR Rares",
+  "LevelRequirement": 0,
+  "Description": "",
+  "Notes": "",
+  "QuestFlags": [
+    "pickupzerzelikyressence",
+    "pickupwindfuryessence",
+    "pickupnorshuntyressence",
+    "pickupnightbrieressence"
+  ],
+  "Route": "vrcheese",
+  "Priority": 0.0,
+  "XpReward": 0,
+  "LuminanceReward": 0,
+  "KeyReward": ""
+}

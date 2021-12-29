@@ -1,0 +1,14 @@
+{
+  "Name": "Uncovering the Renegades",
+  "LevelRequirement": 0,
+  "Description": "",
+  "Notes": "",
+  "QuestFlags": [
+    "uncoverrenegadescomplete0309"
+  ],
+  "Route": "",
+  "Priority": 0.0,
+  "XpReward": 0,
+  "LuminanceReward": 12000,
+  "KeyReward": ""
+}

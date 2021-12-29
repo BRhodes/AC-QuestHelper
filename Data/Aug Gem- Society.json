@@ -1,0 +1,14 @@
+{
+  "Name": "Aug Gem: Society",
+  "LevelRequirement": 180,
+  "Description": "",
+  "Notes": "",
+  "QuestFlags": [
+    "societyaugreward_0210"
+  ],
+  "Route": "SocietyInfiltration",
+  "Priority": 0.0,
+  "XpReward": 0,
+  "LuminanceReward": 0,
+  "KeyReward": ""
+}

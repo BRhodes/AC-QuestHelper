@@ -1,0 +1,14 @@
+{
+  "Name": "Count Phainor's Amulet",
+  "LevelRequirement": 180,
+  "Description": "",
+  "Notes": "",
+  "QuestFlags": [
+    "countphainorsamuletwait"
+  ],
+  "Route": "",
+  "Priority": 0.0,
+  "XpReward": 214584377,
+  "LuminanceReward": 10000,
+  "KeyReward": "1 Leg"
+}

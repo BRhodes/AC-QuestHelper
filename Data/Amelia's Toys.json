@@ -1,0 +1,14 @@
+{
+  "Name": "Amelia's Toys",
+  "LevelRequirement": 0,
+  "Description": "",
+  "Notes": "",
+  "QuestFlags": [
+    "ameliatoyswait"
+  ],
+  "Route": "",
+  "Priority": 0.0,
+  "XpReward": 0,
+  "LuminanceReward": 7500,
+  "KeyReward": ""
+}

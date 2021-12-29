@@ -1,0 +1,14 @@
+{
+  "Name": "Slavemaster Part 1",
+  "LevelRequirement": 0,
+  "Description": "",
+  "Notes": "",
+  "QuestFlags": [
+    "findmumiyahdevicewait"
+  ],
+  "Route": "slavemaster",
+  "Priority": 0.0,
+  "XpReward": 150000000,
+  "LuminanceReward": 10000,
+  "KeyReward": ""
+}

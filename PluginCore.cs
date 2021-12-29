@@ -21,7 +21,7 @@ namespace QuestHelper
     [MVWireUpControlEvents]
 
     [FriendlyName("QuestHelper")]
-    class PluginCore : PluginBase
+    public class PluginCore : PluginBase
     {
         HudView questView;
         Quest questForEdit = null;

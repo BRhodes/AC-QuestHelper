@@ -1,0 +1,14 @@
+{
+  "Name": "Gurog Creation",
+  "LevelRequirement": 0,
+  "Description": "",
+  "Notes": "",
+  "QuestFlags": [
+    "fayzajournalnoteturninwait"
+  ],
+  "Route": "GurogCreation",
+  "Priority": 0.0,
+  "XpReward": 150000000,
+  "LuminanceReward": 10000,
+  "KeyReward": ""
+}

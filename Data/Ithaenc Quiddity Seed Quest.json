@@ -1,0 +1,14 @@
+{
+  "Name": "Ithaenc Quiddity Seed Quest",
+  "LevelRequirement": 130,
+  "Description": "",
+  "Notes": "",
+  "QuestFlags": [
+    "clawofthehopeslayerpickuptimer"
+  ],
+  "Route": "IthaencQuiddityseed",
+  "Priority": 0.0,
+  "XpReward": 130000000,
+  "LuminanceReward": 18000,
+  "KeyReward": ""
+}

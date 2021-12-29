@@ -1,0 +1,14 @@
+{
+  "Name": "Shake 'n Bake",
+  "LevelRequirement": 0,
+  "Description": "",
+  "Notes": "",
+  "QuestFlags": [
+    "weeklyhighgradeturnedin100"
+  ],
+  "Route": "",
+  "Priority": 0.0,
+  "XpReward": 0,
+  "LuminanceReward": 0,
+  "KeyReward": ""
+}

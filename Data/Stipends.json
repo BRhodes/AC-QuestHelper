@@ -4,7 +4,8 @@
   "Description": "",
   "Notes": "",
   "QuestFlags": [
-    "stipendtimer_0812"
+    "stipendtimer_0812",
+    "stipendtimer_monthly"
   ],
   "Route": "qh_Stipends",
   "Priority": 2147483647.0,
