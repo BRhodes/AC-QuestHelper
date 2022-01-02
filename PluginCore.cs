@@ -8,6 +8,7 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Timers;
+//using UtilityBelt.Tools;
 using VirindiViewService;
 using VirindiViewService.Controls;
 
@@ -27,6 +28,9 @@ namespace QuestHelper
         Quest questForEdit = null;
         int lastTab = 0;
 
+        //WorldAnnotations worldAnnotations = null;
+
+
         // Recurring Events
         Timer AllQuestRedrawTimer { get; set; }
         Timer AutoSaveTimer { get; set; }
@@ -39,6 +43,8 @@ namespace QuestHelper
         QuestManager _questManager { get; set; } = new QuestManager();
         PlayerData _playerData { get; set; } = new PlayerData();
         QuestFlagRepository qt { get; set; }
+
+        D3DObj questMarker;
 
         /// <summary>
         /// This is called when the plugin is started up. This happens only once.
@@ -304,15 +310,21 @@ namespace QuestHelper
         [MVControlEvent("StopTimers", "Click")]
         void Stop_Click(object sender, MVControlEventArgs e)
         {
-            AllQuestRedrawTimer.Stop();
-            AutoSaveTimer.Stop();
+            questMarker.Visible = false;
+            questMarker = null;
         }
 
         [MVControlEvent("QuestTick", "Click")]
         void QuestTick_Click(object sender, MVControlEventArgs e)
         {
-            _allQuestsView.RedrawItems();
-            _favoriteQuestsView.RedrawItems();
+            questMarker = Core.D3DService.MarkObjectWith3DText(Core.CharacterFilter.Id, "!", "Arial", 0);
+            questMarker.Color = -16711936;
+            questMarker.OrientToCamera(false);
+            questMarker.Scale(.75f);
+            questMarker.Anchor(Core.CharacterFilter.Id, 1.2f, 0, 0, 0);
+
+            //_allQuestsView.RedrawItems();
+            //_favoriteQuestsView.RedrawItems();
         }
     }
 }

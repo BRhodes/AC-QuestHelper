@@ -1,11 +1,11 @@
 {
+  "QuestFlags": [
+    "tusksnowpickup_0513"
+  ],
   "Name": "Snow Tusker Leader Tusk",
   "LevelRequirement": 0,
   "Description": "",
   "Notes": "",
-  "QuestFlags": [
-    "tusksnowleaderpickup"
-  ],
   "Route": "SnowTuskerLeader",
   "Priority": 0.0,
   "XpReward": 31666666,
